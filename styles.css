@@ -1,0 +1,45 @@
+header h1, header p, .altfont {
+    Font-family: Kanit;
+    text-align: center;
+}
+
+table.top {
+    width: 80%;
+    border: solid black 2px;
+}
+
+table.top {
+    width: 60%;
+    border: solid black 2px;
+    margin: auto;
+}
+
+table.bottom {
+    width: 75%;
+    border: solid black 2px;
+    margin: auto;
+}
+
+tr th, tr td {
+    text-align: center;
+    border: solid black 1px;
+}
+
+tr th {
+    background-color: #0A8080;
+    color: white;
+    Font-family: Kanit;
+    font-size: 24px;
+}
+
+tr.odd {
+    background-color: #DFDBD7;
+}
+
+tr.even {
+    background-color: #BFB8AF;
+}
+
+.desc {
+    margin: 7px;
+}
